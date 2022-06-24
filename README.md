@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Three decades of software development. My current interests, in no particular order
+
+- iOS development (Swift/XCode)
+- Retrogaming (trying to learn batari Basic in my free time, but it is hard)
+- Cross-platform C#/.NET development (MacOS/Windows)
+
 <!--
 **thalter/thalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
