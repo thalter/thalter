@@ -2,7 +2,7 @@
 
 I have over three decades of software development. My current interests are, in no particular order
 
-👨🏻‍💻 Cross-platform C#/.NET development (MacOS/Windows)
+👨🏻‍💻 Cross-platform C#/.NET development (MacOS/Windows). Playing around with .NET MAUI 🌺
 
 🕹 Retrogaming (trying to learn [@batariBasic](https://github.com/batari-Basic/batari-Basic) in my free time, but it is difficult)
 
